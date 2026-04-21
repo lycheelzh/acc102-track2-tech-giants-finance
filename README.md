@@ -27,7 +27,7 @@ This project analyzes the financial performance of four major U.S. technology co
 - **Resilience**: All firms demonstrated strong financial recovery and growth post-2020.
 
 ## Files in This Repository
-- `tech_giants_analysis.ipynb`: Full Python code and analysis
+- `Tech Giants Financial Analysis.ipynb`: Full Python code and analysis
 - `financial_analysis.png`: Summary plot of all four metrics
 - `tech_giants_financial_data.csv`: Cleaned raw financial data
 - `revenue_pivot.csv`: Pivot table of revenue by company and year
@@ -36,7 +36,7 @@ This project analyzes the financial performance of four major U.S. technology co
 
 ## How to Run
 1.  Install required packages: `pip install wrds pandas matplotlib`
-2.  Open `tech_giants_analysis.ipynb` in Jupyter Notebook
+2.  Open `Tech Giants Financial Analysis.ipynb` in Jupyter Notebook
 3.  Run the code and enter your WRDS credentials when prompted
 
 ## Limitations & Future Work
