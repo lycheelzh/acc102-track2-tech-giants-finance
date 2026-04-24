@@ -43,3 +43,6 @@ This project analyzes the financial performance of four major U.S. technology co
 - The analysis is limited to annual data; quarterly data could provide more granular insights.
 - The sample size is small; future work could expand to more companies or industries.
 - Additional metrics like debt ratios or price-to-earnings ratios could be added for a more complete picture.
+
+## Demo Link
+- https://video.xjtlu.edu.cn/Mediasite/Play/ff1e25f59d1f47b4b412c4ce0cbd41f41d
